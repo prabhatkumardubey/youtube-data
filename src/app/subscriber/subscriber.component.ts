@@ -15,7 +15,7 @@ export class SubscriberComponent implements OnInit {
   subscriberOneStr = "";
   subscriberTwo = 0;
   subscriberTwoStr = "";
-  api = "AIzaSyC6smZnK67vmPS6LCRi0fnY6hvUubeweVA";
+  api = "<Put your API Key Here>";
   channelidOne = "UCq-Fj5jknLsUf-MWSy4_brA";
   channelidTwo = "UC-lHJZR3Gqxm24_Vd_AJ5Yw";
   finalURLOne = "";
